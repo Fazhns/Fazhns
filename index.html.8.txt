@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>LINKTREE SEDERHANA</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <center>
+    <h1>@FNursholihah</h1>
+    <div><button>
+        <a href="https://www.instagram.com/fazhns_?igsh=MXV6dzM4MnYwZzRjcA=="></a>KUNJUNGI INSTAGRAM SAYA</button>
+    </div>
+    <br>
+    <div><button>
+        <a href="https://www.tiktok.com/@nrs082?_t=8kGKP99Jr0e&_r=1"></a>KUNJUNGI TIKTOK SAYA<button></div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
